@@ -1,0 +1,19 @@
+{
+  "name": "hub-upload",
+  "version": "0.0.1",
+  "description": "Google Fusion Table upload client suitable for embedding in an MSAccess database",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crn-southlondon/hub-upload.git"
+  },
+  "author": "Chris Devereux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crn-southlondon/hub-upload/issues"
+  },
+  "homepage": "https://github.com/crn-southlondon/hub-upload"
+}
